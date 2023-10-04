@@ -5,4 +5,4 @@ API implementation is expected for doctors listing, doctor detail page and appoi
 
 Doctors Listing API : https://out-patient-bkj6.onrender.com/doc
 Doctor Detail Page API : https://out-patient-bkj6.onrender.com/doc/id
-Appointment Booking API : https://out-patient-bkj6.onrender.com/
+Appointment Booking API : https://out-patient-bkj6.onrender.com/book
